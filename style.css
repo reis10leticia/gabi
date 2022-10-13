@@ -111,6 +111,10 @@ body{
   margin: 0;
 }
 
+.last_icon{
+  padding-top: 1rem;
+}
+
 .div_signature{
   margin: 2rem 5rem;
   padding: .4rem .4rem;

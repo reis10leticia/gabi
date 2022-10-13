@@ -11,7 +11,7 @@ body{
 }
 
 .parallax-container{
-  height: 25rem;
+  height: 20rem;
   margin-bottom: 1.7rem;
   margin-top: 0.7rem;
 }
@@ -112,7 +112,7 @@ body{
 }
 
 .div_signature{
-  margin: 2rem 8rem;
+  margin: 2rem 5rem;
   padding: .4rem .4rem;
   border: .01rem solid white;
 }
@@ -130,9 +130,8 @@ body{
   color: #f5f5f5;
   background-color: #212121;
   font-size: 1rem;
-  text-align: right;
-  margin: 0;
-  margin-top: 3rem;
+  text-align: middle;
   margin-left: 2rem;
-  padding-left: 40%;
+  margin-right: 2rem;
+  margin-top: 3rem;
 }

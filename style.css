@@ -11,8 +11,13 @@ body{
 }
 
 .parallax-container{
-  height: 250px;
-  margin-bottom: 1.5rem;
+  height: 25rem;
+  margin-bottom: 1.7rem;
+  margin-top: 0.7rem;
+}
+
+.car_especial{
+  height: 40rem;
 }
 
 .img_parallax{
@@ -53,7 +58,6 @@ body{
 }
 
 .subtitle{
-  padding-left: 1rem;
   font-size: 1.7rem;;
   color: #f5f5f5;
   background-color: #212121;
@@ -88,4 +92,47 @@ body{
   background-color: #212121;
   font-size: 1.4rem;
   vertical-align: middle;
+} 
+
+#carousel-item {
+  width: 80%;
+  padding: 0;
+  margin: 0;
+}
+
+.carousel{
+  padding: 0rem;
+  margin: 0;
+  height: 15rem;
+}
+
+.grid_imagem{
+  padding: 0rem;
+  margin: 0;
+}
+
+.div_signature{
+  margin: 2rem 8rem;
+  padding: .4rem .4rem;
+  border: .01rem solid white;
+}
+
+.signature{
+  color: #f5f5f5;
+  background-color: #212121;
+  font-size: 1.4rem;
+  text-align: center;
+  margin: 0rem;
+  margin-top: 0rem;
+}
+
+.ps{
+  color: #f5f5f5;
+  background-color: #212121;
+  font-size: 1rem;
+  text-align: right;
+  margin: 0;
+  margin-top: 3rem;
+  margin-left: 2rem;
+  padding-left: 40%;
 }

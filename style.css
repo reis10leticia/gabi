@@ -17,7 +17,7 @@ body{
 }
 
 .car_especial{
-  height: 40rem;
+  height: 35rem;
 }
 
 .img_parallax{
@@ -137,5 +137,6 @@ body{
   text-align: middle;
   margin-left: 2rem;
   margin-right: 2rem;
+  margin-bottom: 3rem;
   margin-top: 3rem;
 }

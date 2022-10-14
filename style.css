@@ -154,6 +154,11 @@ body{
   text-align: middle;
   margin-left: 2rem;
   margin-right: 2rem;
-  margin-bottom: 3rem;
+  margin-bottom: 0.5rem;
   margin-top: 2rem;
+}
+
+.last_ps{
+  margin-top: 0;
+  margin-bottom: 3rem;
 }
